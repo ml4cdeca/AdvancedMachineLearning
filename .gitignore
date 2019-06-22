@@ -11,3 +11,9 @@ exercise09/.ipynb_checkpoints/
 exercise10/.ipynb_checkpoints/
 exercise11/.ipynb_checkpoints/
 exercise12/.ipynb_checkpoints/
+exercise05/mnist_data/MNIST/processed/test.pt
+exercise05/mnist_data/MNIST/processed/training.pt
+exercise05/mnist_data/MNIST/raw/t10k-images-idx3-ubyte
+exercise05/mnist_data/MNIST/raw/t10k-labels-idx1-ubyte
+exercise05/mnist_data/MNIST/raw/train-images-idx3-ubyte
+exercise05/mnist_data/MNIST/raw/train-labels-idx1-ubyte
